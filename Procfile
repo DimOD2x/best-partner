@@ -1,1 +1,1 @@
-
+worker: node dimod.js
